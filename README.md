@@ -1,6 +1,6 @@
 # text-analyse-app
 
-This template should help get you started developing with Vue 3 in Vite.
+A minimalistic text analyzing app with Vue+Vite.
 
 ## Recommended IDE Setup
 
